@@ -1,1 +1,4 @@
-
+-predicting SO real time
+    -SlowWavePhasePredict.m (in postprocessing folder)
+    -paper this is based on: https://arxiv.org/pdf/1910.08784.pdf
+    
